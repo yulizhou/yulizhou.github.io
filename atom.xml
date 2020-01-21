@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yulizhou.github.io</id>
     <title>Yuli&apos;s Blog</title>
-    <updated>2020-01-17T15:49:38.944Z</updated>
+    <updated>2020-01-21T04:03:16.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yulizhou.github.io"/>
     <link rel="self" href="https://yulizhou.github.io/atom.xml"/>
@@ -10,14 +10,4 @@
     <logo>https://yulizhou.github.io/images/avatar.png</logo>
     <icon>https://yulizhou.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Yuli&apos;s Blog</rights>
-    <entry>
-        <title type="html"><![CDATA[Gridea 真好用]]></title>
-        <id>https://yulizhou.github.io/post/gridea-zhen-hao-yong</id>
-        <link href="https://yulizhou.github.io/post/gridea-zhen-hao-yong">
-        </link>
-        <updated>2020-01-17T13:49:14.000Z</updated>
-        <content type="html"><![CDATA[<p>从一个介绍 Notion 的B站视频里看到 Gridea 的，试了一下后感觉真好用。除了遇到奇怪的远程连接失败的bug外，感觉管理静态blog比hexo和jekyll方案方便了太多。</p>
-<p>😀以后都用这个了。</p>
-]]></content>
-    </entry>
 </feed>
